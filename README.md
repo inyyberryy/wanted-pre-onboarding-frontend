@@ -4,20 +4,7 @@
 ##### 🪧Link: https://wanted-pre-onboarding-frontend-sable-seven.vercel.app/signin
 
 
-### 파일 구조
-📦src
- ┣ 📂apis
- ┃ ┣ 📜authAPI.js
- ┃ ┗ 📜todoAPI.js
- ┣ 📂pages
- ┃ ┣ 📜SignIn.js
- ┃ ┣ 📜SignUp.js
- ┃ ┗ 📜Todo.js
- ┣ 📂routes
- ┃ ┗ 📜Router.js
- ┣ 📂style
- ┃ ┗ 📜global.css
- ┗ 📜index.js
+
  
 
 ### 프로젝트 실행 방법
